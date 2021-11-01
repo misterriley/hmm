@@ -1,6 +1,6 @@
 package hmm;
 
-public enum AlphabetType 
+public enum AlphabetType
 {
 	CHAR, WORD
 }
